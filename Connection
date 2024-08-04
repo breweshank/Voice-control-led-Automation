@@ -1,0 +1,5 @@
+Connect the led throught the redpective pin show in arduino code else change the pin according to your code.
+Connect the positive terminal of thr=e leed to the arduino board.
+and negative termmianl to the ground of the of the borad.
+upload the code according to the bord which you have.
+And select the com no according to the which you have connect the pc.
